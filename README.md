@@ -16,4 +16,4 @@ MENTOR:NEELA SANTOSH
 
 ## OUTPUT
 
-https://github.com/yasaswinitalari/-CREATE-A-SALES-DASHBOARD/issues/1#issue-2927320477
+![Image](https://github.com/user-attachments/assets/df77ef7c-7d61-405c-9ddf-807cdcd562ed)
